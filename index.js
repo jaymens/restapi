@@ -5,7 +5,7 @@ var mongoose = require('mongoose');
 
 //set up express
 var app = express();
-
+//
 mongoose.connect("mongodb://localhost/ninjadb", { useNewUrlParser: true });
 
 
