@@ -25,7 +25,7 @@ var NinjaSchema = new Schema({
 
         level: String,
 
-        levela: Number
+       
 
     },
     available:{
