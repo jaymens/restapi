@@ -22,6 +22,7 @@ var NinjaSchema = new Schema({
     },
     rank:{
         type: String,
+        level: Number
     },
     available:{
         type: Boolean,
